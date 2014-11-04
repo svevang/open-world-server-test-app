@@ -2,7 +2,7 @@ PATH
   remote: ../..
   specs:
     open-world-server (0.0.1)
-      rails (~> 4.1.1)
+      rails (~> 4.1.7)
 
 GEM
   remote: https://rubygems.org/
