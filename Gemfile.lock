@@ -1,3 +1,9 @@
+PATH
+  remote: ../..
+  specs:
+    open-world-server (0.0.1)
+      rails (~> 4.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -128,6 +134,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
+  open-world-server!
   rails (= 4.1.7)
   rspec-rails (~> 3.0.0)
   sass-rails (~> 4.0.3)
